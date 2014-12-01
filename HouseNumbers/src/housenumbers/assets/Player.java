@@ -1,3 +1,6 @@
+package housenumbers.assets;
+
+
 
 public class Player {
 

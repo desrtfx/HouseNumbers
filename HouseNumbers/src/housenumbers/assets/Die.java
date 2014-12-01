@@ -1,3 +1,4 @@
+package housenumbers.assets;
 import java.util.Random;
 
 public class Die {

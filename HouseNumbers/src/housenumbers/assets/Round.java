@@ -1,3 +1,4 @@
+package housenumbers.assets;
 public class Round {
 
 	private int[] scores;
